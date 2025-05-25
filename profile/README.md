@@ -8,7 +8,7 @@
 👾 Бот - креатор: @CoyoteWatch_bot
 💻 Тех.поддержка: @CoyoteWatchSupportBot
 
-Актуальная версия системы 1.2
+🖥Текущая версия 1.5
 
 
 👋 Welcome to the CoyoteWatch system.
@@ -20,4 +20,4 @@
 👾 Bot - creator: @CoyoteWatch_bot
 💻 Technical support: @CoyoteWatchSupportBot
 
-Current system version 1.2
+🖥Current version 1.5
