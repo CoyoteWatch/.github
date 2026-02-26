@@ -18,7 +18,7 @@
 🫠 If you find a bug, or you have a suggestion for improving the system, please let us know about it, and we will fix it immediately.
 📤 For questions about advertising in bots, contact technical support. 
 🛡 We kindly ask you not to post illegal content in bots (for violation: bot deletion + blocking in the system)
-👾 Bot - creator: @CoyoteWatch_bot
+👾 Bot - creator: @berezabezbot
 💻 Technical support: @CoyoteWatchSupportBot
 💡Our bot does not violate the laws of the Russian Federation, because each time a user contacts any bot connected to our system, he accepts informed consent to the processing of his personal data.
 
